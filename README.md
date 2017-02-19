@@ -1,0 +1,3 @@
+# EDX-IA
+Cours Intelligence Artificielle IA - EDX
+test de GIT sera supprimé ensuite...
